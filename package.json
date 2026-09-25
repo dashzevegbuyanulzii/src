@@ -1,0 +1,19 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Express test api",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^5.2.1",
+    "livereload": "^0.10.3"
+  }
+}
